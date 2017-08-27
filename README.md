@@ -17,7 +17,8 @@ If a user submits:
 ```
 #### Update
 
-As a fun bonus/challenge for myself in class, I added Detroit as an option (as it is my Hometown). I also added code to further tweak and change the page for each city beyond just the background that was required for the class.
+As a fun bonus/challenge for myself in class, I added Detroit as an option (as it is my Hometown). 
+I also added code to further tweak and change the page for each city beyond just the background that was required for the class.
 ```
 
 ## Getting Started
